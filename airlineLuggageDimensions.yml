@@ -1,0 +1,50 @@
+#
+# Dimensions are in centimeter (cm)
+# Weights are in gram (g)
+#
+# [airline icao code]:
+#   cabin:
+#     maxDimension: -- maximum dimension of a cabin luggage
+#   personal:
+#     maxDimension: -- maximum dimension of any in cabin personal items
+#
+airlines:
+  AAL:
+    name:
+      en_us: American Airlines Inc.
+    luggageDimensions:
+      cabin:
+        maxDimension:
+          width: 36
+          height: 56
+          depth: 23
+      personal:
+        maxDimension:
+          width: 35
+          height: 45
+          depth: 20
+  AZA:
+    name:
+      en_us: Alitalia-Compagnia Aerea Italiana S.P.
+    luggageDimensions:
+      cabin:
+        maxDimension:
+          width: 35
+          height: 55
+          depth: 25
+          weight: 8000
+  ACA:
+    name:
+      en_us: Air Canada
+    luggageDimensions:
+      cabin:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 23
+      personal:
+        maxDimension:
+          width: 43
+          height: 33
+          depth: 16
+
