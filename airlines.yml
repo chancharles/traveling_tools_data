@@ -83,7 +83,6 @@ airlines:
           width: 35
           height: 55
           depth: 25
-      allowPersonal: false
   ANZ:
     name:
       en: Air New Zealand Ltd.
@@ -114,7 +113,6 @@ airlines:
           height: 40
           depth: 15
           weight: 5000
-      allowPersonal: false
   AMX:
     name:
       en: Aeroméxico
