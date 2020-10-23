@@ -89,8 +89,7 @@ airlines:
     luggageDimensions:
       url: https://www.airnewzealand.ca/carry-on-baggage
       cabin:
-        maxDimension:
-          overallSize: 118cm
+        maxOverallSize: 118cm
   AIC:
     name:
       en: Air India Ltd.
@@ -145,9 +144,7 @@ airlines:
     luggageDimensions:
       url: https://www.airtahitinui.com/us-en/faq/baggage
       cabin:
-        maxDimension:
-          overallSize: 115
-          weight: 10000
+        maxOverallSize: 115
   QFA:
     name:
       en: Qantas Airways Limited
@@ -200,8 +197,7 @@ airlines:
     luggageDimensions:
       url: https://www.airniugini.com.pg/plan-book/baggage/
       cabin:
-        maxDimension:
-          overallSize: 158
+        maxOverallSize: 158
   AAR:
     name:
       en: Asiana Airlines Inc.
