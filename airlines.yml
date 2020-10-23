@@ -35,6 +35,11 @@ airlines:
           height: 55
           depth: 25
           weight: 8000
+      personal:
+        maxDimension:
+          width: 36
+          height: 45
+          depth: 20
   ACA:
     name:
       en: Air Canada
@@ -50,4 +55,57 @@ airlines:
           width: 43
           height: 33
           depth: 16
+  AFR:
+    name:
+      en: Air France
+  ACI:
+    name:
+      en: Air Caledonie International
+  ANZ:
+    name:
+      en: Air New Zealand Ltd.
+  AIC:
+    name:
+      en: Air India Ltd.
+  AMX:
+    name:
+      en: Air Maxico
+  ANA:
+    name:
+      en: Air Nippon Airways Co. Ltd.
+  THT:
+    name:
+      en: Air Tahiti Nui
+  AUA:
+    name:
+      en: Australian Airlines AG
+  FJI:
+    name:
+      en: Air Pacific
+  AHK:
+    name:
+      en: AHK Air Hong Kong Ltd.
+  AFL:
+    name:
+      en: Aeroflot Russian Airlines
+  ANG:
+    name:
+      en: Air Niugini Pty Ltd.
+  ANK:
+    name:
+      en: Air Nippon Co., Ltd.
+  AAR:
+    name:
+      en: Asiana Airlines Inc.
+  CCA:
+    name:
+      en: Air China Ltd.
+
+
+
+
+
+
+
+
 
