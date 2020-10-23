@@ -14,6 +14,7 @@ airlines:
       en: American Airlines Inc.
       zh: 美国航空公司
     luggageDimensions:
+      url: https://www.aa.com/i18n/travel-info/baggage/carry-on-baggage.jsp
       cabin:
         maxDimension:
           width: 36
@@ -29,6 +30,7 @@ airlines:
       en: Alitalia-Compagnia Aerea Italiana S.P.
       zh: 意大利航空公司
     luggageDimensions:
+      url: https://www.alitalia.com/en_ca/fly-alitalia/baggage/hand-baggage.html
       cabin:
         maxDimension:
           width: 35
@@ -45,6 +47,7 @@ airlines:
       en: Air Canada
       zh: 加拿大航空公司
     luggageDimensions:
+      url: https://www.aircanada.com/ca/en/aco/home/plan/baggage/carry-on.html
       cabin:
         maxDimension:
           width: 40
@@ -58,54 +61,168 @@ airlines:
   AFR:
     name:
       en: Air France
+    luggageDimensions:
+      url: https://www.airfrance.us/US/en/common/guidevoyageur/pratique/bagages-cabine-airfrance.htm
+      cabin:
+        maxDimension:
+          width: 35
+          height: 55
+          depth: 25
+      personal:
+        maxDimension:
+          width: 40
+          height: 30
+          depth: 15
   ACI:
     name:
-      en: Air Caledonie International
+      en: Aircalin
+    luggageDimensions:
+      url: https://di.aircalin.com/en/i-accept-baggages-formalities
+      cabin:
+        maxDimension:
+          width: 35
+          height: 55
+          depth: 25
+      allowPersonal: false
   ANZ:
     name:
       en: Air New Zealand Ltd.
+    luggageDimensions:
+      url: https://www.airnewzealand.ca/carry-on-baggage
+      cabin:
+        maxDimension:
+          overallSize: 118cm
   AIC:
     name:
       en: Air India Ltd.
+    luggageDimensions:
+      url: http://www.airindia.in/hand-luggage.htm
+      cabin:
+        maxDimension:
+          width: 35
+          height: 55
+          depth: 25
+          weight: 8000
+  LLR:
+    name:
+      en: Alliance Air
+    luggageDimensions:
+      url: http://www.airindia.in/hand-luggage.htm
+      cabin:
+        maxDimension:
+          width: 30
+          height: 40
+          depth: 15
+          weight: 5000
+      allowPersonal: false
   AMX:
     name:
-      en: Air Maxico
+      en: Aeroméxico
+    luggageDimensions:
+      url: https://aeromexico.com/en-us/travel-information/baggage
+      cabin:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 25
+      personal:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 25
   ANA:
     name:
-      en: Air Nippon Airways Co. Ltd.
+      en: All Nippon Airways
+    luggageDimensions:
+      url: https://www.ana.co.jp/en/us/travel-information/baggage-information/carry-on/
+      cabin:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 25
+          weight: 10000
   THT:
     name:
       en: Air Tahiti Nui
-  AUA:
+    luggageDimensions:
+      url: https://www.airtahitinui.com/us-en/faq/baggage
+      cabin:
+        maxDimension:
+          overallSize: 115
+          weight: 10000
+  QFA:
     name:
-      en: Australian Airlines AG
+      en: Qantas Airways Limited
+    luggageDimensions:
+      url: https://www.qantas.com/ca/en/travel-info/baggage/carry-on-baggage.html
+      cabin:
+        maxDimension:
+          width: 36
+          height: 56
+          depth: 23
+          weight: 10000
   FJI:
     name:
-      en: Air Pacific
-  AHK:
+      en: Fiji Airways
+    luggageDimensions:
+      url: https://www.fijiairways.com/en-us/app/baggage-policy-usa-canada/
+      cabin:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 23
+  CPA:
     name:
-      en: AHK Air Hong Kong Ltd.
+      en: Cathay Pacific
+    luggageDimensions:
+      url: https://www.cathaypacific.com/cx/en_CA/baggage/cabin-baggage.html
+      cabin:
+        maxDimension:
+          width: 36
+          height: 56
+          depth: 23
+      personal:
+        maxDimension:
+          width: 40
+          height: 30
+          depth: 15
   AFL:
     name:
       en: Aeroflot Russian Airlines
+    luggageDimensions:
+      url: https://www.aeroflot.ru/xx-en/information/preparation/luggage
+      cabin:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 25
   ANG:
     name:
-      en: Air Niugini Pty Ltd.
-  ANK:
-    name:
-      en: Air Nippon Co., Ltd.
+      en: Air Niugini
+    luggageDimensions:
+      url: https://www.airniugini.com.pg/plan-book/baggage/
+      cabin:
+        maxDimension:
+          overallSize: 158
   AAR:
     name:
       en: Asiana Airlines Inc.
+    luggageDimensions:
+      url: https://flyasiana.com/C/US/EN/contents/carry-on-baggage
+      cabin:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 20
+          weight: 10000
   CCA:
     name:
       en: Air China Ltd.
-
-
-
-
-
-
-
-
-
+    luggageDimensions:
+      url: https://www.airchina.us/us/gb/info/carry-on-baggage/
+      cabin:
+        maxDimension:
+          width: 40
+          height: 55
+          depth: 20
+          weight: 5000
