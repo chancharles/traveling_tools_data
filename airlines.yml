@@ -89,7 +89,7 @@ airlines:
     luggageDimensions:
       url: https://www.airnewzealand.ca/carry-on-baggage
       cabin:
-        maxOverallSize: 118cm
+        maxOverallSize: 118
   AIC:
     name:
       en: Air India Ltd.
