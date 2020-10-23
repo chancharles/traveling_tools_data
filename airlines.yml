@@ -11,7 +11,7 @@
 airlines:
   AAL:
     name:
-      en_us: American Airlines Inc.
+      en: American Airlines Inc.
     luggageDimensions:
       cabin:
         maxDimension:
@@ -25,7 +25,7 @@ airlines:
           depth: 20
   AZA:
     name:
-      en_us: Alitalia-Compagnia Aerea Italiana S.P.
+      en: Alitalia-Compagnia Aerea Italiana S.P.
     luggageDimensions:
       cabin:
         maxDimension:
@@ -35,7 +35,7 @@ airlines:
           weight: 8000
   ACA:
     name:
-      en_us: Air Canada
+      en: Air Canada
     luggageDimensions:
       cabin:
         maxDimension:
