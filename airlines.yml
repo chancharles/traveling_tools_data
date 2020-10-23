@@ -12,6 +12,7 @@ airlines:
   AAL:
     name:
       en: American Airlines Inc.
+      zh: 美国航空公司
     luggageDimensions:
       cabin:
         maxDimension:
@@ -26,6 +27,7 @@ airlines:
   AZA:
     name:
       en: Alitalia-Compagnia Aerea Italiana S.P.
+      zh: 意大利航空公司
     luggageDimensions:
       cabin:
         maxDimension:
@@ -36,6 +38,7 @@ airlines:
   ACA:
     name:
       en: Air Canada
+      zh: 加拿大航空公司
     luggageDimensions:
       cabin:
         maxDimension:
