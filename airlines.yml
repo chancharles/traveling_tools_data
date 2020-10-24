@@ -12,7 +12,7 @@ airlines:
   AAL:
     name:
       en: American Airlines Inc.
-      zh: 美国航空公司
+      zh: 美国航空
     luggageDimensions:
       url: https://www.aa.com/i18n/travel-info/baggage/carry-on-baggage.jsp
       cabin:
@@ -28,7 +28,7 @@ airlines:
   AZA:
     name:
       en: Alitalia-Compagnia Aerea Italiana S.P.
-      zh: 意大利航空公司
+      zh: 意大利航空
     luggageDimensions:
       url: https://www.alitalia.com/en_ca/fly-alitalia/baggage/hand-baggage.html
       cabin:
@@ -45,7 +45,7 @@ airlines:
   ACA:
     name:
       en: Air Canada
-      zh: 加拿大航空公司
+      zh: 加拿大航空
     luggageDimensions:
       url: https://www.aircanada.com/ca/en/aco/home/plan/baggage/carry-on.html
       cabin:
@@ -61,6 +61,7 @@ airlines:
   AFR:
     name:
       en: Air France
+      zh: 法国航空
     luggageDimensions:
       url: https://www.airfrance.us/US/en/common/guidevoyageur/pratique/bagages-cabine-airfrance.htm
       cabin:
@@ -75,7 +76,8 @@ airlines:
           depth: 15
   ACI:
     name:
-      en: Aircalin
+      en: Aircalin Airlines
+      zh: 艾尔卡林航空
     luggageDimensions:
       url: https://di.aircalin.com/en/i-accept-baggages-formalities
       cabin:
@@ -86,6 +88,7 @@ airlines:
   AIC:
     name:
       en: Air India Ltd.
+      zh: 印度航空
     luggageDimensions:
       url: http://www.airindia.in/hand-luggage.htm
       cabin:
@@ -97,6 +100,7 @@ airlines:
   LLR:
     name:
       en: Alliance Air
+      zh: 联盟航空
     luggageDimensions:
       url: http://www.airindia.in/hand-luggage.htm
       cabin:
@@ -108,6 +112,7 @@ airlines:
   AMX:
     name:
       en: Aeroméxico
+      zh: 墨西哥航空
     luggageDimensions:
       url: https://aeromexico.com/en-us/travel-information/baggage
       cabin:
@@ -123,6 +128,7 @@ airlines:
   ANA:
     name:
       en: All Nippon Airways
+      zh: 全日空航空
     luggageDimensions:
       url: https://www.ana.co.jp/en/us/travel-information/baggage-information/carry-on/
       cabin:
@@ -133,7 +139,8 @@ airlines:
           weight: 10000
   QFA:
     name:
-      en: Qantas Airways Limited
+      en: Qantas Airways Ltd.
+      zh: 澳洲航空
     luggageDimensions:
       url: https://www.qantas.com/ca/en/travel-info/baggage/carry-on-baggage.html
       cabin:
@@ -145,6 +152,7 @@ airlines:
   FJI:
     name:
       en: Fiji Airways
+      zh: 斐济航空
     luggageDimensions:
       url: https://www.fijiairways.com/en-us/app/baggage-policy-usa-canada/
       cabin:
@@ -155,6 +163,7 @@ airlines:
   CPA:
     name:
       en: Cathay Pacific
+      zh: 国泰航空
     luggageDimensions:
       url: https://www.cathaypacific.com/cx/en_CA/baggage/cabin-baggage.html
       cabin:
@@ -170,6 +179,7 @@ airlines:
   AFL:
     name:
       en: Aeroflot Russian Airlines
+      zh: 俄罗斯航空
     luggageDimensions:
       url: https://www.aeroflot.ru/xx-en/information/preparation/luggage
       cabin:
@@ -180,6 +190,7 @@ airlines:
   AAR:
     name:
       en: Asiana Airlines Inc.
+      zh: 韩亚航空
     luggageDimensions:
       url: https://flyasiana.com/C/US/EN/contents/carry-on-baggage
       cabin:
@@ -191,6 +202,7 @@ airlines:
   CCA:
     name:
       en: Air China Ltd.
+      zh: 国航
     luggageDimensions:
       url: https://www.airchina.us/us/gb/info/carry-on-baggage/
       cabin:
