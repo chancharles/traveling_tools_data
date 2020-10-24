@@ -83,13 +83,6 @@ airlines:
           width: 35
           height: 55
           depth: 25
-  ANZ:
-    name:
-      en: Air New Zealand Ltd.
-    luggageDimensions:
-      url: https://www.airnewzealand.ca/carry-on-baggage
-      cabin:
-        maxOverallSize: 118
   AIC:
     name:
       en: Air India Ltd.
@@ -138,13 +131,6 @@ airlines:
           height: 55
           depth: 25
           weight: 10000
-  THT:
-    name:
-      en: Air Tahiti Nui
-    luggageDimensions:
-      url: https://www.airtahitinui.com/us-en/faq/baggage
-      cabin:
-        maxOverallSize: 115
   QFA:
     name:
       en: Qantas Airways Limited
@@ -191,13 +177,6 @@ airlines:
           width: 40
           height: 55
           depth: 25
-  ANG:
-    name:
-      en: Air Niugini
-    luggageDimensions:
-      url: https://www.airniugini.com.pg/plan-book/baggage/
-      cabin:
-        maxOverallSize: 158
   AAR:
     name:
       en: Asiana Airlines Inc.
